@@ -1,1 +1,7 @@
-.vscode/settings.json
+/*
+/.**
+
+!app.py
+!oled_ssd1306.py
+!thermo.py
+!.gitignore
